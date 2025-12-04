@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const year = new Date().getFullYear();
     const copyrightElement = document.querySelector('.footer-copyright p');
     if (copyrightElement) {
-        copyrightElement.innerHTML = `&copy; ${year} Комаров Кирилл. Все права защищены.`;
+        copyrightElement.innerHTML = `&copy; ${year} Меньших Виктория. Все права защищены.`;
     }
 });
 
